@@ -78,15 +78,15 @@ section.image {
 @media only screen and (max-width: 700px) {
 
     header {
-        font-size: 2.8vw;
+        font-size: 3vw;
     }
     
     section.normal {
-        font-size: 3.5vw;
+        font-size: 5vw;
     }
 
     section.image{
-        font-size: 4.2vw;
+        font-size: 8vw;
     }
 
 }
